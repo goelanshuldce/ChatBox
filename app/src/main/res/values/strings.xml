@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatBook</string>
+    <string name="not_connected">Network not connected</string>
+</resources>

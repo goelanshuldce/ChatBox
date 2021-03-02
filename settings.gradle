@@ -1,0 +1,10 @@
+include ':utils'
+include ':entities'
+include ':customviews'
+include ':network'
+include ':repository'
+include ':database'
+include ':activechats'
+include ':login'
+include ':app'
+rootProject.name = "ChatBook"

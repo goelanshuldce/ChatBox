@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatBook</string>
+    <string name="login">Login</string>
+    <string name="logo_image">Logo Image</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="no_email">Please enter a email address</string>
+    <string name="password_invalid_length">The password length should be minimum %1$d and maximum %2$d.</string>
+    <string name="no_password">Please enter a password</string>
+    <string name="invalid_email">Please enter a valid email</string>
+    <string name="login_header">Sign In</string>
+</resources>

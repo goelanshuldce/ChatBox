@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChatBook.iml" filepath="$PROJECT_DIR$/.idea/modules/ChatBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/activechats/ChatBook.activechats.iml" filepath="$PROJECT_DIR$/.idea/modules/activechats/ChatBook.activechats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChatBook.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChatBook.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customviews/ChatBook.customviews.iml" filepath="$PROJECT_DIR$/.idea/modules/customviews/ChatBook.customviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/database/ChatBook.database.iml" filepath="$PROJECT_DIR$/.idea/modules/database/ChatBook.database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entities/ChatBook.entities.iml" filepath="$PROJECT_DIR$/.idea/modules/entities/ChatBook.entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/login/ChatBook.login.iml" filepath="$PROJECT_DIR$/.idea/modules/login/ChatBook.login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network/ChatBook.network.iml" filepath="$PROJECT_DIR$/.idea/modules/network/ChatBook.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository/ChatBook.repository.iml" filepath="$PROJECT_DIR$/.idea/modules/repository/ChatBook.repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/ChatBook.utils.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/ChatBook.utils.iml" />
+    </modules>
+  </component>
+</project>

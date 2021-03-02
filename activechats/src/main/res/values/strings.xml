@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_message">Enter message</string>
+    <string name="send">SEND</string>
+    <string name="thread_heading">Customers</string>
+    <string name="active_chat_heading">Resolution Center</string>
+</resources>

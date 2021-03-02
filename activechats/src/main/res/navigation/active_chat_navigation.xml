@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/active_chat_navigation"
+    app:startDestination="@id/threadFragment">
+    <fragment
+        android:id="@+id/threadFragment"
+        android:name="com.anshul.activechats.thread.ThreadFragment"
+        android:label="ThreadFragment">
+        <action
+            android:id="@+id/action_threadFragment_to_activeChatFragment"
+            app:destination="@id/activeChatFragment"
+            app:enterAnim="@anim/nav_default_enter_anim" />
+    </fragment>
+    <fragment
+        android:id="@+id/activeChatFragment"
+        android:name="com.anshul.activechats.activechat.ActiveChatFragment"
+        android:label="ActiveChatFragment">
+        <argument
+            android:name="threadID"
+            app:argType="integer" />
+    </fragment>
+</navigation>
